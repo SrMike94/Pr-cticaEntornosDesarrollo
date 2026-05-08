@@ -1,15 +1,15 @@
-#Logs
-#.log
+# Logs
+*.log
 
-#Java compilado
+# Java compilado
 *.class
 *.jar
 *.zip
 
-Variables de entorno
+# Variables de entorno
 .env
 
-#IDEs
+# IDEs
 .idea/
 .vscode/
 *.iml
