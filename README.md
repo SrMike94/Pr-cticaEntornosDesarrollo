@@ -13,3 +13,8 @@ Práctica de control de versiones usando Git y GitHub.
 
 ```bash
 javac src/Main.java
+
+## Cómo arrancar el proyecto
+1. Clona el repositorio.
+2. Abre la carpeta `src`.
+3. Ejecuta el archivo `Main.java` desde tu IDE favorito o usando la terminal con `java Main.java`.
